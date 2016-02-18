@@ -10,4 +10,3 @@
 + css
 + pandoc
 + Markdown
->>>>>>> master
