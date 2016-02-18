@@ -2,4 +2,12 @@
 
 
 ## Prácticas:
-+  [tareas_iniciales](http://alu0100824780.github.io/tareas-iniciales-alu0100824780/)
++  [Procesadores de lenguajes](pl.html)
+
+
+## Tecnologías empleadas:
++ html
++ css
++ pandoc
++ Markdown
+>>>>>>> master
